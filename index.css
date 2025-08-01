@@ -1,0 +1,52 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f9f9f9;
+  color: #333;
+}
+header {
+  background: #2b2d42;
+  color: white;
+  padding: 20px;
+  display: sticky;
+  text-align: center;
+  
+}
+nav a {
+  color: black;
+  margin: 0 10px;
+  text-decoration: none;
+}
+nav a:hover
+section {
+  padding: 40px;
+}
+.project {
+  background: white;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+footer {
+  text-align: center;
+  padding: 1px;
+  background: #ddd;
+}
+.calculator{
+  color:#2b2d42;
+  height: 39px;
+  width: 158px;
+  border-radius: 10px;
+  background-color:grey;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.todo{
+  color: blue;
+  cursor: pointer;
+  text-decoration: underline;
+}
+.contact{
+  text-decoration: underline;
+}
